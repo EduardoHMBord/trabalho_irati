@@ -65,7 +65,7 @@ span{
     padding: 20px;
     float: top;
 }
-.principal span::selection,p::selection,td::selection,th::selection,h3::selection{
+.principal span::selection,p::selection,td::selection,th::selection,h3::selection,cite::selection,b::selection{
     color: black;
     background:rgb(76, 142, 218);
 }
